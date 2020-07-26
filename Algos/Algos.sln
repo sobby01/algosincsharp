@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algos", "Algos.csproj", "{14827A99-6137-4409-B7BE-3D57B1FC8C95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algos.String", "Algos.String.csproj", "{14827A99-6137-4409-B7BE-3D57B1FC8C95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

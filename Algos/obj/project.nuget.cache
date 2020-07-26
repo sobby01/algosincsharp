@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3gjBsmjR/F6AwICR5o72zvcAOmp688NS4oz8dg66BtjkcjBOgykjcIVonJfQzk7sJJdZfrO8hvVdyVyc5oEj0g==",
+  "dgSpecHash": "fdReS899czdCx7E7MPLUPnxS/R+++hKq6JGrrj5tAqM9+T0qWsDLzx9HXPmsZ/m4SVAe4gwLPlEEkr4+J3uKUg==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Git\\AlgosInCSharp\\algosincsharp\\Algos\\Algos.csproj",
+  "projectFilePath": "D:\\Dev\\Git\\AlgosInCSharp\\algosincsharp\\Algos\\Algos.String.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

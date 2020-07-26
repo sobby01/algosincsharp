@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Git\\AlgosInCSharp\\algosincsharp\\Algos\\Algos.csproj",
-      "projectName": "Algos",
-      "projectPath": "D:\\Dev\\Git\\AlgosInCSharp\\algosincsharp\\Algos\\Algos.csproj",
+      "projectUniqueName": "D:\\Dev\\Git\\AlgosInCSharp\\algosincsharp\\Algos\\Algos.String.csproj",
+      "projectName": "Algos.String",
+      "projectPath": "D:\\Dev\\Git\\AlgosInCSharp\\algosincsharp\\Algos\\Algos.String.csproj",
       "packagesPath": "C:\\Users\\sasingh\\.nuget\\packages\\",
       "outputPath": "D:\\Dev\\Git\\AlgosInCSharp\\algosincsharp\\Algos\\obj\\",
       "projectStyle": "PackageReference",
